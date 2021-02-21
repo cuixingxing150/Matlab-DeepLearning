@@ -1,2 +1,4 @@
 # Matlab-DeepLearning
-Use matlab for deep learning
+MATLAB Deep Learning With Machine Learning, Neural Networks and Artificial Intelligence
+Phil Kim
+2017
